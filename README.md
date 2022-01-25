@@ -58,8 +58,8 @@ Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NaysaBots/Subtitle-Muxer-Bot)
 </a>
-</p>
-</details>
+
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
